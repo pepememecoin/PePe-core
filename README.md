@@ -7,10 +7,10 @@
 </div>
 
 <br> Important links: <br>
- - Website [PEPEPOW](https://pepecore.com/)
+ 
  - Block Explorer [PEPEPOW-EXPLORER](https://explorer.pepecore.com/)
  - Join community in [DISCORD](https://discord.gg/jJgV73w8Zs)
- - Github [GITHUB](https://github.com/avgttt/PePe-core)
+ - Github [GITHUB](https://github.com/pepememecoin/PePe-core)
  - Twitter [TWITTER](https://twitter.com/pepepow_coin)
   
   
